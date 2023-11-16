@@ -1,6 +1,6 @@
 ### 👋 반갑습니다!
 
-<img width = '200px;' src = 'https://github.com/yoonandmoon/yoonandmoon/blob/main/%EA%B0%9C%EB%B0%9C%EC%BD%94%EB%93%9C.png?raw=true'>
+<img width = '200px;' src = 'https://github.com/yoonandmoon/yoonandmoon/blob/main/82a02d8b-f573-4b5a-8da6-fa857a796b55.jpg?raw=true'>
 </div>
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://geonlee.tistory.com/)](https://geonlee.tistory.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)
